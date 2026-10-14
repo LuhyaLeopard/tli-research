@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+title: "Do Trading Levels Work? 16 Years of Nasdaq Futures vs. Random Zones"
+authors:
+  - family-names: Awori
+    given-names: Christian
+version: "1.0"
+date-released: "2026-10-14"
+repository-code: "https://github.com/LuhyaLeopard/tli-research"
+license: CC-BY-4.0
