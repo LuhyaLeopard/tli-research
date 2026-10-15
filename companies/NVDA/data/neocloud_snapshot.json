@@ -1,0 +1,54 @@
+[
+ {
+  "company": "CoreWeave",
+  "period": "Q2 2026",
+  "revenue_m": 2575.0,
+  "net_result_m": -626.0,
+  "signed_bn": 104.2,
+  "signed_basis": "Backlog",
+  "live_bn": null,
+  "debt_note": "$35.55B debt; about $15.55B liquidity",
+  "customer_note": "Top three customers = 72% of Q2 revenue",
+  "source": "CoreWeave 10-Q and Q2 2026 release (SEC); liquidity per coverage",
+  "source_type": "Primary"
+ },
+ {
+  "company": "Nebius",
+  "period": "Q2 2026",
+  "revenue_m": 582.3,
+  "net_result_m": -190.4,
+  "signed_bn": 40.0,
+  "signed_basis": "Commitments (more than)",
+  "live_bn": null,
+  "debt_note": "$8.04B cash; about $10B convertible notes at Mar 31, plus $5.75B in Aug",
+  "customer_note": "Microsoft and Meta anchor it; shares not found in filings",
+  "source": "Nebius 6-K (SEC); converts per coverage",
+  "source_type": "Primary"
+ },
+ {
+  "company": "IREN",
+  "period": "FY26 (to June)",
+  "revenue_m": 707.0,
+  "net_result_m": -702.6,
+  "signed_bn": 4.0,
+  "signed_basis": "Contracted annual run-rate",
+  "live_bn": 1.0,
+  "debt_note": "$14B cash and committed financing vs a $25-30B FY27 spending plan",
+  "customer_note": "Microsoft ($9.7B, five years) plus a frontier AI lab",
+  "source": "IREN 8-K, FY26 results (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "company": "Nscale",
+  "period": "H1 2026",
+  "revenue_m": 140.6,
+  "net_result_m": -1020.0,
+  "signed_bn": 103.4,
+  "signed_basis": "Total contract value (Aug 31)",
+  "live_bn": 2.6,
+  "debt_note": "$3.1B convertible round; $4.6B+ of debt raised in 2026",
+  "customer_note": "Largest customer 52% of H1 revenue; Microsoft + Anthropic about 85% of contract value",
+  "source": "Nscale S-1 (SEC); coverage",
+  "source_type": "Primary"
+ }
+]

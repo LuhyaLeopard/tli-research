@@ -20,3 +20,5 @@ Part of the Less Intimidating financial-literacy project (thelessintimidating.co
 - `field-notes/` – weekly notes
 - `frameworks/` – reusable ways of thinking
 - `glossary.md` – terms that recur across documents
+
+How documents are written, including which ones may be interactive: [docs/DOCUMENT_TYPES.md](docs/DOCUMENT_TYPES.md).

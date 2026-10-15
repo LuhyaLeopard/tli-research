@@ -1,0 +1,130 @@
+[
+ {
+  "company": "CoreWeave",
+  "test": "funding",
+  "value": "Q2 spending $9.4B vs about $15.55B liquidity",
+  "reading": "Medium",
+  "source": "CoreWeave 10-Q coverage",
+  "source_type": "Secondary"
+ },
+ {
+  "company": "CoreWeave",
+  "test": "debt",
+  "value": "About $7.5B due within 12 months vs $15.55B liquidity: covered 2.1 times",
+  "reading": "Medium",
+  "source": "CoreWeave 10-Q (SEC); our math",
+  "source_type": "Primary"
+ },
+ {
+  "company": "CoreWeave",
+  "test": "customers",
+  "value": "Top three = 72% of revenue",
+  "reading": "High",
+  "source": "CoreWeave 10-Q (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "company": "CoreWeave",
+  "test": "live",
+  "value": "Backlog of $104.2B equals about 40 quarters of revenue",
+  "reading": "Medium",
+  "source": "CoreWeave Q2 2026 release; our math",
+  "source_type": "Primary"
+ },
+ {
+  "company": "Nebius",
+  "test": "funding",
+  "value": "$20-25B spending vs $8.04B cash; prepayments cover part",
+  "reading": "Medium",
+  "source": "Nebius Q2 call; 6-K (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "company": "Nebius",
+  "test": "debt",
+  "value": "Convertible notes mature in 2029 or later: no near-term wall found",
+  "reading": "Low",
+  "source": "Nebius 6-K (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "company": "Nebius",
+  "test": "customers",
+  "value": "Shares not found in filings",
+  "reading": "Unknown",
+  "source": "Nebius 6-K (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "company": "Nebius",
+  "test": "live",
+  "value": "$40B+ commitments vs about $3.0B run-rate: about 13 years",
+  "reading": "Medium",
+  "source": "Our math; coverage",
+  "source_type": "Secondary"
+ },
+ {
+  "company": "IREN",
+  "test": "funding",
+  "value": "$25-30B plan vs $14B secured: gap of $11-16B ($3-8B even after the ~$8B it is targeting)",
+  "reading": "High",
+  "source": "IREN 8-K FY26 (SEC); our math",
+  "source_type": "Primary"
+ },
+ {
+  "company": "IREN",
+  "test": "debt",
+  "value": "Not found in sources",
+  "reading": "Unknown",
+  "source": "-",
+  "source_type": "Primary"
+ },
+ {
+  "company": "IREN",
+  "test": "customers",
+  "value": "Microsoft plus one lab; shares not found",
+  "reading": "Medium",
+  "source": "IREN releases",
+  "source_type": "Secondary"
+ },
+ {
+  "company": "IREN",
+  "test": "live",
+  "value": "$1B of $4B live: 25%",
+  "reading": "Medium",
+  "source": "IREN 8-K FY26 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "company": "Nscale",
+  "test": "funding",
+  "value": "Anthropic build financing not yet committed",
+  "reading": "High",
+  "source": "Nscale S-1 coverage",
+  "source_type": "Secondary"
+ },
+ {
+  "company": "Nscale",
+  "test": "debt",
+  "value": "Small at June 30 (reported $137M) but rising fast",
+  "reading": "Medium",
+  "source": "Coverage of S-1",
+  "source_type": "Secondary"
+ },
+ {
+  "company": "Nscale",
+  "test": "customers",
+  "value": "85% with two customers; 52% with one",
+  "reading": "High",
+  "source": "Nscale S-1 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "company": "Nscale",
+  "test": "live",
+  "value": "$2.6B of $103.4B live: 2.5%",
+  "reading": "High",
+  "source": "Nscale S-1 coverage",
+  "source_type": "Secondary"
+ }
+]

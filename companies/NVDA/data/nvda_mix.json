@@ -1,0 +1,29 @@
+[
+ {
+  "segment": "Hyperscale",
+  "plain": "Large cloud providers",
+  "revenue_bn": 48.71,
+  "yoy_pct": 102,
+  "qoq_pct": 13,
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "segment": "ACIE",
+  "plain": "AI clouds, industrial and enterprise",
+  "revenue_bn": 40.313,
+  "yoy_pct": 138,
+  "qoq_pct": 25,
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "segment": "Edge computing",
+  "plain": "PCs, workstations and devices",
+  "revenue_bn": 7.198,
+  "yoy_pct": 27,
+  "qoq_pct": 13,
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ }
+]

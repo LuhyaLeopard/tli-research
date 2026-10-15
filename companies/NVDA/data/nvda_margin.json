@@ -1,0 +1,50 @@
+[
+ {
+  "period": "Q2 FY26",
+  "kind": "Actual",
+  "gm_low": 72.4,
+  "gm_high": 72.4,
+  "source": "Nvidia CFO commentary (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "period": "Q1 FY27",
+  "kind": "Actual",
+  "gm_low": 74.9,
+  "gm_high": 74.9,
+  "source": "Nvidia CFO commentary (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "period": "Q2 FY27",
+  "kind": "Actual",
+  "gm_low": 75.0,
+  "gm_high": 75.0,
+  "source": "Nvidia CFO commentary (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "period": "Q3 FY27",
+  "kind": "Guide",
+  "gm_low": 73.5,
+  "gm_high": 74.5,
+  "source": "Nvidia CFO commentary (SEC): 74.0% plus or minus 0.5 point",
+  "source_type": "Primary"
+ },
+ {
+  "period": "Q4 FY27",
+  "kind": "Guide",
+  "gm_low": 71.0,
+  "gm_high": 72.0,
+  "source": "Q2 FY27 earnings call (transcript summaries)",
+  "source_type": "Secondary"
+ },
+ {
+  "period": "FY28",
+  "kind": "Guide",
+  "gm_low": 72.0,
+  "gm_high": 73.0,
+  "source": "Q2 FY27 earnings call (transcript summaries)",
+  "source_type": "Secondary"
+ }
+]

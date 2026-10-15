@@ -20,7 +20,7 @@ Hypothesis results grouped by verdict (Confirmed / Rejected / Shelved). All resu
 ## Shelved
 | Test | Name | Result | Link |
 |---|---|---|---|
-| T22 | Oil/Dollar Composite vs. Nasdaq | No confirmed edge; composite no better than its parts | [link](hypotheses/T22-oil-dollar-composite.md) |
+| T22 | Oil/Dollar Composite vs. Nasdaq | Composite no better than its parts; nothing confirmed | [link](hypotheses/T22-oil-dollar-composite.md) |
 | T25 | Post-13F Overlap Drift | Definition only; no data for years | [link](hypotheses/T25-post-13f-overlap-drift.md) |
 
 ## Field notes
@@ -28,3 +28,8 @@ Hypothesis results grouped by verdict (Confirmed / Rejected / Shelved). All resu
 
 ## Other
 - COT: [Weekly positioning does not forecast NQ direction](cot/2026-10-06-cot-signals-and-nq-direction.md)
+
+## Company reads
+| Company | Read | Link |
+|---|---|---|
+| NVDA and the neoclouds | Is Nvidia paying for its own demand? | [link](companies/NVDA/2026-10-15-nvidia-neoclouds-who-pays-for-whom.md) |

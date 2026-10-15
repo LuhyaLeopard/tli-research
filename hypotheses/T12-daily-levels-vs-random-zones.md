@@ -5,7 +5,7 @@
 Widely watched daily price levels (prior high, prior low, overnight high and low and similar) hold no better than randomly placed zones at the same distance from the open.
 
 ## Why it matters
-Most chart-based trading assumes some prices matter more than others. If a "mapped" level does not hold better than a random one, the map adds no edge for entries, whatever it feels like on the screen.
+Most chart-based trading assumes some prices matter more than others. If a "mapped" level does not hold better than a random one, the map adds nothing for entries, whatever it feels like on the screen.
 
 ## The evidence
 Each level was scored on whether price touched it and then held, against 20 distance-matched random controls per level. Hold rate = held divided by (held plus broke). Held means a later hourly bar retreats at least 0.3% of price from the zone; broke means a close through the far side; unresolved touches are excluded.

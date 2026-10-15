@@ -1,0 +1,23 @@
+[
+ {
+  "generation": "Hopper",
+  "revenue_per_gw_bn": 18,
+  "note": "GPU-centric systems",
+  "source": "Nvidia Q2 FY27 earnings call, per coverage",
+  "source_type": "Secondary"
+ },
+ {
+  "generation": "Blackwell",
+  "revenue_per_gw_bn": 25,
+  "note": "Adds NVLink and networking",
+  "source": "Nvidia Q2 FY27 earnings call, per coverage",
+  "source_type": "Secondary"
+ },
+ {
+  "generation": "Vera Rubin",
+  "revenue_per_gw_bn": 40,
+  "note": "Adds CPU, more networking options, Groq inference chip. Cross-check: the CFO commentary says one generation at the 4.25 GW Ohio campus could mean $150-200B of Nvidia revenue, about $35-47B per GW (our math)",
+  "source": "Nvidia Q2 FY27 earnings call, per coverage; CFO commentary (SEC) for the cross-check",
+  "source_type": "Secondary"
+ }
+]

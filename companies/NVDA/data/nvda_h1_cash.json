@@ -1,0 +1,72 @@
+[
+ {
+  "metric": "revenue",
+  "label": "First-half revenue",
+  "value_bn": 177.837,
+  "source": "Nvidia 10-Q (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "metric": "operating_cash_flow",
+  "label": "Cash from operations",
+  "value_bn": 74.421,
+  "source": "Nvidia 10-Q (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "metric": "free_cash_flow",
+  "label": "Free cash flow",
+  "value_bn": 69.895,
+  "source": "Nvidia CFO commentary (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "metric": "equity_purchases",
+  "label": "Cash spent buying equity securities",
+  "value_bn": 42.404,
+  "source": "Nvidia 10-Q cash flow statement (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "metric": "equity_sales",
+  "label": "Cash from selling equity securities",
+  "value_bn": 7.241,
+  "source": "Nvidia 10-Q cash flow statement (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "metric": "equity_purchases_prior",
+  "label": "Equity purchases, first half a year earlier",
+  "value_bn": 1.245,
+  "source": "Nvidia 10-Q cash flow statement (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "metric": "private_net_additions",
+  "label": "Net additions to private stakes",
+  "value_bn": 31.005,
+  "source": "Nvidia 10-Q, Note 6 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "metric": "equity_gains",
+  "label": "Gains on equity securities (other income)",
+  "value_bn": 23.707,
+  "source": "Nvidia 10-Q (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "metric": "gaap_net_income",
+  "label": "GAAP net income",
+  "value_bn": 118.01,
+  "source": "Nvidia 10-Q (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "metric": "nongaap_net_income",
+  "label": "Non-GAAP net income (excludes equity gains)",
+  "value_bn": 99.502,
+  "source": "Nvidia CFO commentary (SEC)",
+  "source_type": "Primary"
+ }
+]

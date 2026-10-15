@@ -1,0 +1,44 @@
+[
+ {
+  "id": "takeaway",
+  "section": "Header",
+  "label": "Our view",
+  "text": "Nvidia's strength is real and sits in the system around the chip. The financing loop is real too, but narrow, and the one piece that works like a loan is the Ohio guarantee. Among the neoclouds, the real question is who can fund the build, not whether demand exists."
+ },
+ {
+  "id": "moat_view",
+  "section": "Moat",
+  "label": "Our view",
+  "text": "Most of Nvidia's staying power sits in the middle layer. Anyone can build a good chip. Selling a whole rack with the networking, and getting a customer to switch all of it, is much harder."
+ },
+ {
+  "id": "pricing_view",
+  "section": "Pricing power",
+  "label": "Our view",
+  "text": "Management's own forecast says pricing power holds. The margin slide so far comes from rising costs, not customers pushing back. Watch whether it stays a cost story or turns into a price story."
+ },
+ {
+  "id": "circ_view",
+  "section": "Circular financing",
+  "label": "Our view",
+  "text": "'Circular' is a fair label for a slice of Nvidia's business, not the whole. The biggest source of its sales, the cloud giants' own spending, is not Nvidia-financed. The slice to watch is the Ohio guarantee: it is the only place where Nvidia pays if a customer cannot, and it rests on a single customer. The stakes are the item most likely to move reported profit, up or down. The buy-backs are the least worrying."
+ },
+ {
+  "id": "neo_view",
+  "section": "Neoclouds",
+  "label": "Our view",
+  "text": "All four are growing fast and losing money, for different reasons. What separates them is how much of their signed business is live and how much of the build is already funded."
+ },
+ {
+  "id": "tests_view",
+  "section": "Structural tests",
+  "label": "Our view",
+  "text": "From most to least exposed to structural failure: Nscale, IREN, CoreWeave, Nebius. This is judgment, not a forecast. It comes from the four tests above, not from a view on whether AI demand holds. Lambda, Crusoe and other private neoclouds are not covered because no primary sources were found."
+ },
+ {
+  "id": "disclosure",
+  "section": "Footer",
+  "label": "Note",
+  "text": "Nothing here is a recommendation to buy or sell anything. Every figure traces to a document in Sources."
+ }
+]

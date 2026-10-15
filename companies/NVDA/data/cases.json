@@ -1,0 +1,378 @@
+[
+ {
+  "id": "c01",
+  "topic": "Pricing power",
+  "side": "Bull",
+  "point": "Gross margin was 75.0% last quarter, up from 72.4% a year earlier.",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c02",
+  "topic": "Pricing power",
+  "side": "Bull",
+  "point": "Nvidia guided fiscal 2028 revenue up about 70%, limited by how much it can build, and expects margins to settle at 72-73% as price increases take effect.",
+  "source": "Q2 FY27 earnings call (transcript summaries)",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c03",
+  "topic": "Pricing power",
+  "side": "Bull",
+  "point": "Customers outside the large cloud providers bought $40.3B last quarter, up 138% from a year earlier. Demand is broadening.",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c04",
+  "topic": "Pricing power",
+  "side": "Bear",
+  "point": "Gross margin is guided to 74% next quarter and a low of 71-72% in Q4, which Nvidia blames on higher memory costs.",
+  "source": "CFO commentary (SEC); earnings call summaries",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c05",
+  "topic": "Pricing power",
+  "side": "Bear",
+  "point": "Nvidia has committed $279B to suppliers, up from $119B a quarter earlier, mostly memory. Those are bills if demand slows.",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c06",
+  "topic": "Pricing power",
+  "side": "Bear",
+  "point": "One direct customer was 16% of last quarter's revenue. Five direct customers hold 70% of receivables (22%, 14%, 13%, 11%, 10%; our math).",
+  "source": "Nvidia 10-Q, Note 7 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c07",
+  "topic": "Pricing power",
+  "side": "Bear",
+  "point": "The outlook assumes no data center compute sales to China.",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c08",
+  "topic": "Circular financing",
+  "side": "Bull",
+  "point": "The large cloud providers were 54.7% of Data Center sales (our math: $48.7B of $89.0B). They fund their own buildouts; their combined 2026 spending plans are at least $715B (our math from each company's latest guidance: Alphabet $195-205B, Microsoft $190B, Meta $130-145B, Amazon $200B or more).",
+  "source": "CFO commentary (SEC); news reports of Q2 2026 earnings",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c09",
+  "topic": "Circular financing",
+  "side": "Bull",
+  "point": "Nvidia generated $69.9B of free cash flow in the first half, more than it spent on equity purchases.",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c10",
+  "topic": "Circular financing",
+  "side": "Bull",
+  "point": "The $36B capacity buy-back shrinks as outside customers use the capacity, and clouds can stop supplying it.",
+  "source": "Nvidia 10-Q (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c11",
+  "topic": "Circular financing",
+  "side": "Bear",
+  "point": "The $105B Ohio guarantee backs capacity leased to OpenAI. Nvidia says each generation of equipment there could mean $150-200B of Nvidia revenue.",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c12",
+  "topic": "Circular financing",
+  "side": "Bear",
+  "point": "Nvidia spent $42.4B buying equity securities in the first half, versus $1.2B a year earlier.",
+  "source": "Nvidia 10-Q cash flow statement (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c13",
+  "topic": "Circular financing",
+  "side": "Bear",
+  "point": "GAAP net income was $118.0B against Nvidia's own non-GAAP $99.5B, a gap of $18.5B, or 16% (our math), mostly gains on holdings in AI companies. Gains are paper gains and can reverse.",
+  "source": "Nvidia 10-Q; CFO commentary (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c14",
+  "topic": "Circular financing",
+  "side": "Bear",
+  "point": "Receivables rose to $63.1B (from $38.5B in January) as payment days went from 45 to 60 on extended terms for large customers. Terms can run from 90 days to a year.",
+  "source": "Nvidia 10-Q; CFO commentary (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c15",
+  "topic": "Circular financing",
+  "side": "Bear",
+  "point": "Nvidia says many AI clouds and model makers are growing faster than their balance sheets and credit can support, so it is helping select customers secure land, power and data center capacity.",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c16",
+  "topic": "CoreWeave",
+  "side": "Bull",
+  "point": "The operating loss narrowed to $49M in Q2 from about $144M in Q1 (our math: $193M for the half less $49M).",
+  "source": "CoreWeave 10-Q, Q2 2026 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c17",
+  "topic": "CoreWeave",
+  "side": "Bull",
+  "point": "Revenue backlog was about $104B ($103.7B of remaining performance obligations plus $0.5B of other committed revenue), roughly 8 times its 2026 revenue forecast of $12.4-13.2B (our math). The company added more than $25B of new commitments in early Q3.",
+  "source": "CoreWeave Q2 2026 release; coverage for the forecast",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c18",
+  "topic": "CoreWeave",
+  "side": "Bull",
+  "point": "The top customer was 36% of Q2 revenue (40% of the first half), versus 71% a year earlier.",
+  "source": "CoreWeave 10-Q, Q2 2026 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c19",
+  "topic": "CoreWeave",
+  "side": "Bull",
+  "point": "About $15.55B of liquidity at June 30.",
+  "source": "sec-api (coverage of CoreWeave 10-Q)",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c20",
+  "topic": "CoreWeave",
+  "side": "Bear",
+  "point": "Net interest was $640M in the quarter, 24.9% of revenue (our math), against a $626M net loss.",
+  "source": "CoreWeave Q2 2026 results release",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c21",
+  "topic": "CoreWeave",
+  "side": "Bear",
+  "point": "Debt principal is $35.55B. About $7.5B falls due within 12 months (our math from the debt table).",
+  "source": "CoreWeave 10-Q, Jun 30 2026 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c22",
+  "topic": "CoreWeave",
+  "side": "Bear",
+  "point": "Three customers were 72% of Q2 revenue (36%, 26%, 10%). Two customers hold 64% of receivables (32% each).",
+  "source": "CoreWeave 10-Q, Q2 2026 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c23",
+  "topic": "CoreWeave",
+  "side": "Bear",
+  "point": "Backlog of $104.2B equals about 40 quarters of current revenue (our math). It becomes revenue only as sites and power are delivered.",
+  "source": "CoreWeave Q2 2026 release; our math",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c24",
+  "topic": "Nebius",
+  "side": "Bull",
+  "point": "Revenue was $582.3M, up 454% from a year earlier.",
+  "source": "Nebius 6-K, Q2 2026 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c25",
+  "topic": "Nebius",
+  "side": "Bull",
+  "point": "Operating profit before depreciation and some costs (adjusted EBITDA) was $236.2M, a 40.6% margin (our math), against a $21.0M loss a year earlier.",
+  "source": "Nebius 6-K, Q2 2026 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c26",
+  "topic": "Nebius",
+  "side": "Bull",
+  "point": "Cash fell from $9.30B at March 31 to $8.04B at June 30, after about $5.7B of capital spending in Q2.",
+  "source": "Nebius 6-Ks, Q1 and Q2 2026 (SEC); Q2 call",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c27",
+  "topic": "Nebius",
+  "side": "Bull",
+  "point": "More than $40B of commitments from large customers. About 70% of new Q2 deals included prepayments covering an estimated 50-60% of the related building costs.",
+  "source": "Coverage of Nebius Q2 2026 results",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c28",
+  "topic": "Nebius",
+  "side": "Bear",
+  "point": "2026 capital spending is guided to $20-25B, against $8.04B of cash. The gap has to come from prepayments, loans and new shares.",
+  "source": "Nebius Q2 2026 earnings call (transcript)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c29",
+  "topic": "Nebius",
+  "side": "Bear",
+  "point": "About $10B (face value) of convertible notes at March 31, plus $5.75B issued in August.",
+  "source": "Nebius 6-K (SEC); coverage",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c30",
+  "topic": "Nebius",
+  "side": "Bear",
+  "point": "To hit its $3.0-3.4B revenue forecast, revenue must reach about $2.0-2.4B in the second half, roughly $1.01-1.21B a quarter, against $981M in the first half and $582M in Q2 (our math).",
+  "source": "Nebius 6-K (SEC); Q2 call; our math",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c31",
+  "topic": "Nebius",
+  "side": "Bear",
+  "point": "Shares fell about 17% on July 1 after a report that Meta plans to sell spare computing.",
+  "source": "Bloomberg report via Motley Fool, Digg",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c32",
+  "topic": "IREN",
+  "side": "Bull",
+  "point": "AI cloud revenue passed mining revenue in the June quarter: $70.5M against $66.7M.",
+  "source": "IREN 8-K, FY26 results (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c33",
+  "topic": "IREN",
+  "side": "Bull",
+  "point": "The $9.7B, five-year Microsoft contract is 20% prepaid, and a $3.6B investment-grade loan at 6.0% plus prepayments funds 96% of its chip spending.",
+  "source": "IREN 8-K, 3 Nov 2025 (SEC); FY26 results release",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c34",
+  "topic": "IREN",
+  "side": "Bull",
+  "point": "Company claim: recent three-year contracts bring in more than $20M per megawatt, paying back in about two years, and talks are at about $25M. Not independently checked.",
+  "source": "IREN FY26 release and Q4 call (company)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c35",
+  "topic": "IREN",
+  "side": "Bear",
+  "point": "Only $1B of the $4B contracted annual run-rate is live today. The company warns run-rate is not the same as reported revenue.",
+  "source": "IREN 8-K, FY26 results (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c36",
+  "topic": "IREN",
+  "side": "Bear",
+  "point": "The FY27 spending plan is $25-30B against $14B of cash, committed financing and prepayments, a gap of $11-16B (our math). Management is targeting about $8B more, which would still leave it $3-8B short (our math).",
+  "source": "IREN FY26 release; Q4 call; our math",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c37",
+  "topic": "IREN",
+  "side": "Bear",
+  "point": "FY26 net loss was $702.6M, of which $638.8M is non-cash impairment. Adjusted EBITDA in the June quarter was only $19.2M.",
+  "source": "IREN 8-K, FY26 results (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c38",
+  "topic": "Nscale",
+  "side": "Bull",
+  "point": "Revenue was $140.6M for the first half of 2026, up 1,252% from $10.4M.",
+  "source": "Nscale S-1 (SEC, 18 Sep 2026)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c39",
+  "topic": "Nscale",
+  "side": "Bull",
+  "point": "Two very large customers, Microsoft (up to $43.8B) and Anthropic (up to $44.6B), make up about 85% of $103.4B total contract value.",
+  "source": "Nscale S-1 risk factors; coverage for amounts",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c40",
+  "topic": "Nscale",
+  "side": "Bull",
+  "point": "Nvidia is a financing partner: $1B of a $3.1B convertible round, plus a lease guarantee of about $860M (reported).",
+  "source": "Fortune, Bloomberg via QZ",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c41",
+  "topic": "Nscale",
+  "side": "Bear",
+  "point": "Only $2.6B of the $103.4B is live (2.5%, our math). Firm obligations (remaining performance obligations) are $56.4B.",
+  "source": "CNBC and Investing.com citing the S-1",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c42",
+  "topic": "Nscale",
+  "side": "Bear",
+  "point": "The S-1 says forecast funding relied on uncommitted financing, which initially raised substantial doubt about continuing as a going concern. Management says a plan to defer, reduce or cancel spending relieves it.",
+  "source": "Nscale S-1 notes (verbatim per Fortune)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c43",
+  "topic": "Nscale",
+  "side": "Bear",
+  "point": "As of 18 September no firm financing had been obtained for the Anthropic agreements, and Anthropic can terminate a tranche without liability if delivery is late.",
+  "source": "Coverage quoting the S-1 (Actuia, Mostly Metrics)",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c44",
+  "topic": "Nscale",
+  "side": "Bear",
+  "point": "The largest customer was 52% of first-half revenue. The S-1 warns customers may face relatively low switching costs when contracts end.",
+  "source": "Nscale S-1 (SEC); Mostly Metrics",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c45",
+  "topic": "CoreWeave",
+  "side": "Bear",
+  "point": "Management guided Q3 net interest to $860-940M, up from $640M in Q2.",
+  "source": "Coverage of CoreWeave's Q2 2026 call (Khan Capital)",
+  "source_type": "Secondary"
+ },
+ {
+  "id": "c46",
+  "topic": "Nebius",
+  "side": "Bear",
+  "point": "Interest expense was $119.1M in Q2, up from $4.8M a year earlier, mostly on its convertible notes.",
+  "source": "Nebius 6-K, Q2 2026 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "id": "c47",
+  "topic": "IREN",
+  "side": "Bear",
+  "point": "Some GPU debt is costly: financings of $2.8B fund 90% of the associated chip spending, and one facility carries a 9.0% fixed rate, against 6.0% on the Microsoft financing.",
+  "source": "IREN FY26 release; coverage of its Q4 call",
+  "source_type": "Secondary"
+ }
+]

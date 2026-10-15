@@ -1,0 +1,56 @@
+[
+ {
+  "item": "Stakes in other companies",
+  "amount_bn": 99.0,
+  "kind": "Equity",
+  "how": "Marketable $42.8B + private $51.2B + long-term public $5.0B. About $36.9B of public holdings are under short-term lock-up. Valued at current prices",
+  "risk_view": "Medium",
+  "source": "Nvidia 10-Q, Jul 26 2026 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "item": "Stakes promised, not yet paid",
+  "amount_bn": 25.0,
+  "kind": "Equity",
+  "how": "Commitments to invest more, $18B of it due in the rest of this fiscal year",
+  "risk_view": "Medium",
+  "source": "Nvidia 10-Q, Jul 26 2026 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "item": "AI cloud agreements",
+  "amount_bn": 36.0,
+  "kind": "Capacity buy-back",
+  "how": "Clouds buy Nvidia systems; Nvidia commits to rent computing time from them. Clouds can stop and resell it; the amount shrinks as others use it",
+  "risk_view": "Lower",
+  "source": "Nvidia 10-Q and CFO commentary",
+  "source_type": "Primary"
+ },
+ {
+  "item": "Leases to pass on",
+  "amount_bn": 20.0,
+  "kind": "Lease",
+  "how": "Data center leases of about 15 years that Nvidia signed and expects to reassign to third parties",
+  "risk_view": "Medium",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "item": "Guarantee: cloud partners' leases",
+  "amount_bn": 3.5,
+  "kind": "Guarantee",
+  "how": "Covers partners' data center leases if they default; partners put $0.7B in escrow",
+  "risk_view": "Lower",
+  "source": "Nvidia 10-Q, Note 8 (SEC)",
+  "source_type": "Primary"
+ },
+ {
+  "item": "Guarantee: OpenAI Ohio campus",
+  "amount_bn": 105.0,
+  "kind": "Guarantee",
+  "how": "Capped credit support for about 4.25 GW leased to OpenAI for 20 years. Phases in as data centers open, first expected in fiscal 2029; shrinks as OpenAI pays",
+  "risk_view": "Higher",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ }
+]

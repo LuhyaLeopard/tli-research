@@ -1,0 +1,29 @@
+[
+ {
+  "layer": "1",
+  "name": "The chip",
+  "plain": "The processors that do the AI math",
+  "evidence": "The cloud giants design their own chips and rivals sell alternatives. Anthropic signed a multi-gigawatt Google and Broadcom chip deal in April 2026 (reported)",
+  "strength": "Weakest. Competitors can match it",
+  "source": "W.Media, AI Funding Tracker (reported)",
+  "source_type": "Secondary"
+ },
+ {
+  "layer": "2",
+  "name": "The system and the network",
+  "plain": "The links that make thousands of chips act as one computer, sold as full racks",
+  "evidence": "Networking sales passed $31B in fiscal 2026, and were $11B in Q4 alone, up more than 3.5 times from a year earlier. Rack-sized Grace Blackwell systems were about two-thirds of Data Center sales in Q4 FY26",
+  "strength": "Strongest. Sold as one package",
+  "source": "Nvidia Q4 FY26 earnings call (official corrected transcript)",
+  "source_type": "Primary"
+ },
+ {
+  "layer": "3",
+  "name": "The software and platform",
+  "plain": "The programming tools developers already know, plus services",
+  "evidence": "Nvidia does not report software revenue. It says it will share in revenue its AI cloud partners earn from third parties 'if certain criteria are met', so none of this is in reported revenue yet",
+  "strength": "Real, but not measurable from filings",
+  "source": "Nvidia CFO commentary, Q2 FY27 (SEC)",
+  "source_type": "Primary"
+ }
+]

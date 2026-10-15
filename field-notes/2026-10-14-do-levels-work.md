@@ -9,7 +9,7 @@
 
 ## Short answer
 
-We tested 14 daily levels and 13 weekly levels, plus 9 exploratory profile levels, on about 4,000 trading days of Nasdaq-100 futures. None held better than randomly placed zones at the same distance from the day's open by a margin that survives correction for testing many levels (the lowest q-value was 0.35, where 0.10 or below was required). The biggest difference on any daily level was 1.5 points of hold rate, and that one was worse than random. Weekly levels have fewer touches, so smaller effects can't be ruled out there. Zones where three or more levels stack together look much stronger than single levels (+11.6 points) but not stronger than random zones at the same distance (+0.3). Levels remain useful as reference points. In this data, they carried no edge of their own.
+We tested 14 daily levels and 13 weekly levels, plus 9 exploratory profile levels, on about 4,000 trading days of Nasdaq-100 futures. None held better than randomly placed zones at the same distance from the day's open by a margin that survives correction for testing many levels (the lowest q-value was 0.35, where 0.10 or below was required). The biggest difference on any daily level was 1.5 points of hold rate, and that one was worse than random. Weekly levels have fewer touches, so smaller effects can't be ruled out there. Zones where three or more levels stack together look much stronger than single levels (+11.6 points) but not stronger than random zones at the same distance (+0.3). Levels remain useful as reference points. In this data, they did not hold better than random zones on their own.
 
 ---
 
